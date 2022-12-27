@@ -89,5 +89,12 @@
     "answer": "A + b",
     "correct": false,
     "timestamp": 1672099503585
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "A + A + A / b",
+    "correct": false,
+    "timestamp": 1672099562646
   }
 ]
