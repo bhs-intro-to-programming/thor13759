@@ -26,5 +26,12 @@
     "answer": "s * 1",
     "correct": false,
     "timestamp": 1673893647117
+  },
+  {
+    "name": "Area of a square",
+    "canonical": "s**2",
+    "answer": "s * s",
+    "correct": true,
+    "timestamp": 1673893671414
   }
 ]
