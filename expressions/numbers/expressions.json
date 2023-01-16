@@ -103,5 +103,12 @@
     "answer": "6432 - 4000",
     "correct": true,
     "timestamp": 1673892492260
+  },
+  {
+    "name": "Area of circle with radius 2",
+    "canonical": "Math.PI * 4",
+    "answer": "Math.PI * r*r",
+    "correct": false,
+    "timestamp": 1673892587785
   }
 ]
