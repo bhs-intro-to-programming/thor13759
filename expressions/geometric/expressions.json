@@ -103,5 +103,12 @@
     "answer": "Math.PI * r * r",
     "correct": true,
     "timestamp": 1673899759056
+  },
+  {
+    "name": "Circumference of a circle",
+    "canonical": "Math.PI * 2 * r",
+    "answer": "2 * Math.PI * r",
+    "correct": true,
+    "timestamp": 1673899790818
   }
 ]
