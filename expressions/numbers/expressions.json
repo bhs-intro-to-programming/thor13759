@@ -26,5 +26,12 @@
     "answer": "4 *1",
     "correct": true,
     "timestamp": 1673892119986
+  },
+  {
+    "name": "1337 times 32",
+    "canonical": "1337 * 32",
+    "answer": "1337 + 32",
+    "correct": false,
+    "timestamp": 1673892150843
   }
 ]
