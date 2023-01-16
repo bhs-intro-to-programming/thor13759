@@ -194,5 +194,12 @@
     "answer": "60 * 24 * 365",
     "correct": true,
     "timestamp": 1673893267623
+  },
+  {
+    "name": "Seconds in a century",
+    "canonical": "60 * 60 * 24 * 365 * 100",
+    "answer": "60 * 60 * 24 * 365 * 100",
+    "correct": true,
+    "timestamp": 1673893397800
   }
 ]
