@@ -117,5 +117,12 @@
     "answer": "2*Math.PI *r*h",
     "correct": true,
     "timestamp": 1673900641053
+  },
+  {
+    "name": "Total surface area of a cylinder",
+    "canonical": "Math.PI * 2 * r * (h + r)",
+    "answer": "2*(Math.PI * r * r) + \t2*Math.PI *r*h",
+    "correct": true,
+    "timestamp": 1674589967776
   }
 ]
