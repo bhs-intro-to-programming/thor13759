@@ -138,5 +138,12 @@
     "answer": "Math.PI * r * s",
     "correct": true,
     "timestamp": 1674591265526
+  },
+  {
+    "name": "Total surface area of a cone from slant height",
+    "canonical": "Math.PI * r * (r + s)",
+    "answer": "Math.PI * r * r + Math.PI * r * s",
+    "correct": true,
+    "timestamp": 1675311296220
   }
 ]
