@@ -131,5 +131,12 @@
     "answer": "total/count",
     "correct": true,
     "timestamp": 1675744768837
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": "a-b",
+    "correct": false,
+    "timestamp": 1675744870474
   }
 ]
