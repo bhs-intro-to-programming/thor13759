@@ -124,5 +124,12 @@
     "answer": "toal/count",
     "correct": false,
     "timestamp": 1675744747753
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "total/count",
+    "correct": true,
+    "timestamp": 1675744768837
   }
 ]
