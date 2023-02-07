@@ -208,5 +208,12 @@
     "answer": "a - b",
     "correct": false,
     "timestamp": 1675745149104
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": " Math.abs + a",
+    "correct": false,
+    "timestamp": 1675745167542
   }
 ]
