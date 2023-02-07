@@ -250,5 +250,12 @@
     "answer": " Math.abs * a - Math.abs * b",
     "correct": false,
     "timestamp": 1675745445554
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": " Math.abs  - Math.abs ",
+    "correct": false,
+    "timestamp": 1675745467604
   }
 ]
