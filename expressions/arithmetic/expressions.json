@@ -194,5 +194,19 @@
     "answer": "a + b",
     "correct": false,
     "timestamp": 1675745143470
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": "a + b",
+    "correct": false,
+    "timestamp": 1675745144042
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": "a - b",
+    "correct": false,
+    "timestamp": 1675745149104
   }
 ]
